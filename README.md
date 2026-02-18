@@ -42,6 +42,9 @@ Criei uma plataforma intuitiva utilizando **Python** e **Streamlit** que oferece
 * Instalar o **Ollama** através do site oficial [ollama.com](https://ollama.com).
 
 ### 2. Configuração da IA
-Abra o seu terminal e baixe o modelo que utilizei no projeto:
+Abra o seu powershell e baixe o Ollama que utilizei no projeto:
 ```bash
-ollama pull llama3.2:1b
+irm https://ollama.com/install.ps1 | iex
+```
+### 3. executável
+Para facilitar deixei um executável, mas so vai funcionar se tiver o python e o Ollama instalados
