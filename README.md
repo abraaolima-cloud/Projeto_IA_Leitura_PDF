@@ -48,3 +48,5 @@ irm https://ollama.com/install.ps1 | iex
 ```
 ### 3. executável
 Para facilitar deixei um executável, mas so vai funcionar se tiver o python e o Ollama instalados
+
+### 4. Qualquer dúvida pode entrar em contato
