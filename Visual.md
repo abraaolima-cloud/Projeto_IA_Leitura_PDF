@@ -52,9 +52,3 @@ Espaço para perguntas específicas sobre o documento, mantendo o contexto da le
 | **PyMuPDF** | Processamento de PDF |
 
 ---
-
-## 📦 Como rodar o projeto
-
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
